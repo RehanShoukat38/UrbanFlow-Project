@@ -1,0 +1,7 @@
+--- VEHICLE REGISTRY RECORD ---
+Owner: Rehan
+CNIC: 3740213277861
+License: 1
+Vehicle No: 1
+Age: 18
+------------------------------
